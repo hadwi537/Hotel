@@ -1,0 +1,16 @@
+
+1) Someone has to be able to review their booking
+2) When are hotel rooms free
+3) what rooms are free
+4) Ability to cancel bookings (on particular day)
+5) be able to add bookings
+
+
+Array of bookings indexed by day with a list of free rooms:
+- Simple
+- Can see free days
+- can see free rooms
+- can change booking reference
+
+Problems:
+- Can't easily see free rooms
